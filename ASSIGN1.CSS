@@ -1,0 +1,7 @@
+.container{
+    height: 60px;
+    width: 80%;
+    background-color: teal;
+    display: flex;
+    justify-content: center;
+}
